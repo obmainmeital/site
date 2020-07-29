@@ -181,6 +181,5 @@ list-style-image: url(imges/left-297787_640.png);
     text-align: left;
 }
 footer { display:inline-block;
-   height: 150px;
-    background: red;
+   height: 50;
 }
